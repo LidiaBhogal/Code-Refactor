@@ -12,9 +12,13 @@ N/A
 
 ## Usage
 
-Each section contains semantic html. If you open DevTools elements you can see the different types of semantic html used to create the layout of the page. On this website we used header, footer, section, aside and figure.
+Each section contains semantic html. If you open DevTools elements you can see the different types of semantic html used to create the layout of the page. On this website we used header, footer, section, aside and figure as shown in the screenshot.
+<img width="960" alt="Screenshot 2022-11-23 at 19 36 38" src="https://user-images.githubusercontent.com/116956128/203635201-2c5923b0-6dac-44fb-aeff-46405db66a44.png">
 
+## Credits
 
-# License
+N/A
+
+## License
 
 N/A
